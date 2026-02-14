@@ -34,4 +34,13 @@ fastapi-clean-starter/
 3. 访问接口文档：
    http://127.0.0.1:8000/docs
 
----
+## 🛠️ 代码检查与格式化
+
+4. 代码格式化（使用 black）：
+   ```bash
+   black .
+   ```
+5. 类型检查（使用 mypy）：
+   ```bash
+   mypy .
+   ```
