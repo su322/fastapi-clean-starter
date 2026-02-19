@@ -1,4 +1,6 @@
 fastapi
 uvicorn[standard]
+pydantic-settings
+
 black
 mypy
